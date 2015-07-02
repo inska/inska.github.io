@@ -1,0 +1,15 @@
+name: Abraskabra
+description: Small talk about life and technology
+meta_description: "Inseok's blog"
+
+markdown: redcarpet
+highlighter: pygments
+logo: false
+paginate: 15
+baseurl: /
+domain_name: 'http://inska.github.io'
+#google_analytics: 'UA-XXXXXXXX-X'
+
+# Details for the RSS feed generator
+url:            'http://inska.github.io'
+author:         'Inseok'
